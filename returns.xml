@@ -8,7 +8,11 @@
 	</return>
 
 	<return>
-	<tan>T35700020</tan>
+<<<<<<< HEAD
+	<tan>T35700022</tan>
+=======
+	<tan>T35700022</tan>
+>>>>>>> master
 	<not>Rnskmvcarj</not>
 	<city>Laval</city>
 	<province>QC</province>
